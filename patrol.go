@@ -59,7 +59,7 @@ func main() {
 		if channel.IsShared {
 			continue
 		}
-		if channel.Name == "debug-channel" {
+		if channel.Name == "room-debug" {
 			debugChannel = channel
 			continue
 		}

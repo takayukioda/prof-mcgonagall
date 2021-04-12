@@ -18,10 +18,10 @@ Nameing & Rules
 Command
 -----
 
-- `/patrol-channels`
+- `patrol`
   - Patrol channels, mark them, and show result of that
   - No clean up process will be executed
-- `/cleanup-channels`
+- `cleanup`
   - Patrol channels, mark them, and clean up the mess
   - Returns a list of channels that has been cleaned
 - `/reserve-channels`
